@@ -12,14 +12,11 @@ export default function Hero() {
       </div>
 
       <p className="text-sm md:text-base font-light">
-        Lorem ipsum dolor sit{" "}
+        welcome to gym{" "}
+        <span className="text-blue-400 font-medium">you cant miss this</span> ,,
+        insure legs day is forced bro , just live with it and you will accept
         <span className="text-blue-400 font-medium">
-          amet consectetur adipisicing
-        </span>{" "}
-        elit. Esse volupt amet consectetur adipisicing ctetur adipisicing e
-        elit. adipisicing elit. Esse voluptatibus in sed! Tempore, ea ad.
-        <span className="text-blue-400 font-medium">
-          Esse volupt amet consectetur
+          train hard train right!
         </span>
       </p>
       <Button
