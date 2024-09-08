@@ -14,7 +14,7 @@ export default function Hero() {
       <p className="text-sm md:text-base font-light">
         welcome to gym{" "}
         <span className="text-blue-400 font-medium">you cant miss this</span> ,,
-        insure legs day is forced bro , just live with it and you will accept
+        insure legs day is forced bro , just live with it and you will accept ,
         <span className="text-blue-400 font-medium">
           train hard train right!
         </span>
